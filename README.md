@@ -1,3 +1,9 @@
 # webscraping
-webscraping using Beautifulsoup to find the name and salary of players in a National Basketball League, from webpage.
+webscraping using Beautifulsoup to extract the information of the top 50 movies with the best average rating from the web link shared below.
 
+
+https://web.archive.org/web/20230902185655/https://en.everybodywiki.com/100_Most_Highly-Ranked_Films
+
+
+The information required is Average Rank, Film, and Year.
+Python script webscraping_movies.py that extracts the information and saves it to a CSV file top_50_films.csv. The same information is saved to a database Movies.db under the table name Top_50.
