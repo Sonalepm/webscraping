@@ -15,10 +15,15 @@ You require the following libraries for this lab.
 
 2)BeautifulSoup library for interpreting the HTML document.
 
-requests library to communicate with the web page.
+3)requests library to communicate with the web page.
 
-sqlite3 for creating the database instance.
+4)sqlite3 for creating the database instance.
 
 While requests and sqlite3 come bundled with Python3, you need to install pandas and BeautifulSoup libraries to the IDE.
 
 For this, run the following commands in a terminal window.
+
+python3.11 -m pip install pandas
+python3.11 -m pip install bs4
+
+File webscraping_movies.py conatins all the code
