@@ -1,2 +1,3 @@
 # webscraping
-webscraping using Beautifulsoup
+webscraping using Beautifulsoup to find the name and salary of players in a National Basketball League, from webpage.
+
